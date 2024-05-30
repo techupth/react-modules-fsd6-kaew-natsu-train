@@ -34,7 +34,7 @@ export function Header() {
 
 export function MainContent() {
   return (
-    <main className="set-center">
+    <main className="main-content-section">
       <div className="company-detail-left">
         <h1>Welcome to XYZ Corp</h1>
         <p>Your Trusted Partner in Excellence</p>
